@@ -1,2 +1,0 @@
-# Maze-Generation_vichy_f
-このAPIはmincraft上に迷路を自動生成することができます。
