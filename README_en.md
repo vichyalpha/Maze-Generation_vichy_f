@@ -29,7 +29,10 @@ https://www.curseforge.com/minecraft/mc-mods/remote-controller/files/3363255
 ![NetherUpdateArtwork](https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/28acd239-7094-43ac-8a8f-f79a9329ea85)
 
 4. Run Maze_Generation.py to generate mazes
- ![Python-logo-notext svg](https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/6faba07d-4457-4a2a-ab54-637c498e06e0)
+  
+![Python-logo-notext svg (1)](https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/9e0a04bc-f39b-44cd-b88a-d5f597898257)
+
+https://github.com/vichyalpha/Maze-Generation_vichy_f
 
 ====> Done!
 
