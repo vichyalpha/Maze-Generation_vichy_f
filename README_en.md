@@ -26,6 +26,7 @@ https://www.curseforge.com/minecraft/mc-mods/remote-controller/files/3363255
  ![ダウンロード (4)](https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/65c0c363-52e1-41f4-9b71-cf71aded1235)
 
 3. Start mincraft(forge1.16.5)
+
 ![NetherUpdateArtwork](https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/28acd239-7094-43ac-8a8f-f79a9329ea85)
 
 4. Run Maze_Generation.py to generate mazes
