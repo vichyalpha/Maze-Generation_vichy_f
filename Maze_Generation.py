@@ -2,7 +2,7 @@ from mcje.minecraft import Minecraft
 import param_MCJE as param
 import random
 mc = Minecraft.create(port=param.PORT_MC)
-mc.postToChat('This is a clock made with LCDfont and transferred to mincraft world')
+mc.postToChat('Maze-Generation!!')
 
 
 def update_col():
