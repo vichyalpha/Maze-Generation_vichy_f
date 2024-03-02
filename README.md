@@ -15,22 +15,23 @@ Maze_Generation.pyを起動するとmincraft上で迷路を自動生成するこ
 　mincraft_remote https://github.com/Naohiro2g/minecraft_remote 
  
 <img width="435" alt="スクリーンショット 2024-03-02 204348" src="https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/bcd89e79-4446-4b0d-82d8-9856f8ac544a">
+
 # 自動生成するための準備
 1. Forge 1.16.5をインストール
 　　　https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html
 
    ![ダウンロード (3)](https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/e2e9de27-5113-4a02-807b-1e4da3dc1f91)
 
-3. RemoteControllerMod-1.16.5 v0.05　をインストール
+2. RemoteControllerMod-1.16.5 v0.05　をインストール
 　　　https://www.curseforge.com/minecraft/mc-mods/remote-controller/files/3363255
 
     ![ダウンロード (4)](https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/65c0c363-52e1-41f4-9b71-cf71aded1235)
 
-4. mincraft(forge1.16.5)を起動
+3. mincraft(forge1.16.5)を起動
 
 ![NetherUpdateArtwork](https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/28acd239-7094-43ac-8a8f-f79a9329ea85)
 
-6. Maze_Generation.pyを実行し、迷路を生成
+4. Maze_Generation.pyを実行し、迷路を生成
 
  ![Python-logo-notext svg](https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/6faba07d-4457-4a2a-ab54-637c498e06e0)
 
