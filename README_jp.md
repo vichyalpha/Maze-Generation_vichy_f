@@ -45,7 +45,8 @@ Maze_Generation.pyを起動するとmincraft上で迷路を自動生成するこ
 　また左上と右下にスタートとゴールがあります。
 　※注意
    標準では(0,5,0)あたりに生成されます。
-   スーパーフラットで作成ことを推奨します。
+   スーパーフラットで作成することを推奨します。
+   
 　<img width="435" alt="スクリーンショット 2024-03-02 204348" src="https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/f98274d1-e257-47a2-bf9b-6c349bfa00e3">
 
 
