@@ -33,7 +33,9 @@ Maze_Generation.pyを起動するとmincraft上で迷路を自動生成するこ
 
 4. Maze_Generation.pyを実行し、迷路を生成
 
- ![Python-logo-notext svg](https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/6faba07d-4457-4a2a-ab54-637c498e06e0)
+![Python-logo-notext svg (1)](https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/89575da1-cb03-41de-bf64-c37ad86b277a)
+
+ 
 
 ===>完了！
 
