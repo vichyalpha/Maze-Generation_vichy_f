@@ -39,7 +39,7 @@ https://github.com/vichyalpha/Maze-Generation_vichy_f
 # Maze Details
 　This maze is made of 40x40 size. (The size can be changed.) 
  You can also change the type of blocks on the floor and walls of the maze. 
- （You can also change the type of blocks on the floor and walls of the maze (standard is diamond blocks and iron blocks). 　
+ You can also change the type of blocks on the floor and walls of the maze (standard is diamond blocks and iron blocks). 　
  Note: The standard maze is generated around (0,5,0). It is recommended to use super flat. 　
  
  <img width="435" alt="スクリーンショット 2024-03-02 204348" src="https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/f98274d1-e257-47a2-bf9b-6c349bfa00e3">
