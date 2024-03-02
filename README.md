@@ -53,6 +53,7 @@ Maze_Generation.pyを起動するとmincraft上で迷路を自動生成するこ
 # 迷路のアルゴリズム
 　このAPIでは一般的に「棒倒し法」と呼ばれるものを使用しています。
 　ここでは、簡単に説明します。
+ 
  ![maze-stick03-300x300](https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/d47df9f0-dc6f-4517-b529-809ce2d67134)
 
 
