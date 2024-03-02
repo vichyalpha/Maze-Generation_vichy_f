@@ -41,10 +41,13 @@ https://github.com/vichyalpha/Maze-Generation_vichy_f
  You can also change the type of blocks on the floor and walls of the maze. 
  （You can also change the type of blocks on the floor and walls of the maze (standard is diamond blocks and iron blocks). 　
  Note: The standard maze is generated around (0,5,0). It is recommended to use super flat. 　
+ 
  <img width="435" alt="スクリーンショット 2024-03-02 204348" src="https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/f98274d1-e257-47a2-bf9b-6c349bfa00e3">
 
 # Maze Algorithm
-　This API uses what is commonly referred to as the "stick-fall method". 　Here is a brief description.  ![maze-stick03-300x300](https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/d47df9f0-dc6f-4517-b529-809ce2d67134)
+　This API uses what is commonly referred to as the "stick-fall method". 　Here is a brief description.  
+ 
+ ![maze-stick03-300x300](https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/d47df9f0-dc6f-4517-b529-809ce2d67134)
 
 # Characteristics of the stick-fell method
 The stick-and-stick method is a relatively easy maze creation method to program. Also, the distance between walls and paths is 1.
